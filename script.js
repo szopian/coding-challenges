@@ -68,7 +68,7 @@ for (let i = 11; i < 30; i += 2) {
 }
 console.log(
   'Coding challenge #7 sum odd numbers greater than 10 and less than 30 is ' +
-    sumCh7
+  sumCh7
 );
 
 // Coding challenge #8
@@ -89,7 +89,6 @@ console.log(
 
 // Coding challenge #10
 // Calculate the sum of numbers in an array of numbers
-
 const addNumberArray = arr => {
   let sum = 0;
   for (let i = 0; i < arr.length; i++) {

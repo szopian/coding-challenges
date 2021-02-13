@@ -1,1 +1,2 @@
-# coding-challenges
+# CODING CHALLENGES 
+## Javascript challenges part#1
