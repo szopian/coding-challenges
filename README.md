@@ -1,2 +1,2 @@
 # CODING CHALLENGES 
-## Javascript challenges part#1
+## Practical Coding Javascript Challenges
