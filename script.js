@@ -210,7 +210,7 @@ console.log("Coding challenge #16 Prime number: " + isPrime(89));
 // Coding challenge #17
 // Calculate the sum of digits of a positive integer number
 
-let value = 2568,
+let value = 313743,
   sum = value
     .toString()
     .split("")
